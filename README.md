@@ -17,3 +17,11 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 Part 1: Create the Earthquake Visualization
 
 ![output](quake-map.png)
+
+* Include popups that provide additional information about the earthquake when its associated marker is clicked.
+
+* Create a legend that will provide context for your map data.
+
+* Your visualization should look something like the preceding map.
+
+
