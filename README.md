@@ -13,7 +13,7 @@ The instructions for this activity are broken into two parts:
 Part 1: Create the Earthquake Visualization
 
 Part 1: Create the Earthquake Visualization
-  * NOTE: Tick Earthquake location to see earthqake location data
+  * NOTE: Tick Earthquake location on map to see earthqake location data
 
 ![output](quake-map.png)
 
